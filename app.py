@@ -21,7 +21,7 @@ custom_font_style = """
 st.write(custom_font_style, unsafe_allow_html=True)
 
 # FastAPIのエンドポイント
-FASTAPI_ENDPOINT = "http://localhost:8000/astronomy/"
+FASTAPI_ENDPOINT = "http://localhost:8000/〇〇"
 
 # SQLiteデータベースの接続
 conn = sqlite3.connect("favorites.db")
