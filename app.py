@@ -1,5 +1,5 @@
-NASA_API_URL = "https://api.nasa.gov/planetary/apod"
-API_KEY = "SAp9weyHcbPhsy4pgqMl3d4z3Tp9d2fyCxhh4Fc8"  # 実際のプロジェクトでは適切な方法で管理すること
+NASA_API_URL = "〇〇"
+API_KEY = "〇〇"  # 実際のプロジェクトでは適切な方法で管理すること
 
 # streamlit_app.py
 
